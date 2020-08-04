@@ -1,0 +1,7 @@
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion 1\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion 1\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion 1\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion 1\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion 1\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion 1\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion 1\Ejercicio5\obj\Debug\Ejercicio5.pdb
