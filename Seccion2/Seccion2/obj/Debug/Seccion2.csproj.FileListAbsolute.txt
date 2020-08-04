@@ -1,0 +1,7 @@
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion2\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion2\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion2\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion2\Seccion2\obj\Debug\Seccion2.csprojAssemblyReference.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion2\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\Jenners\Documents\Carpetas del escritorio\Clases\Tecnologo Software\TERCER CUATRIMESTRE\Fundamentos de programacion\Datos y Formatos C#\Seccion2\Seccion2\obj\Debug\Seccion2.pdb
